@@ -21,7 +21,7 @@
     "globby": "^11.0.3",
     "pagegraph-crawl": "git+https://github.com/brave-experiments/pagegraph-crawl.git",
     "psl": "^1.8.0",
-    "shelljs": "^0.8.4",
+    "shelljs": "^0.8.5",
     "sugarcoat": "git+https://github.com/brave-experiments/sugarcoat.git",
     "uglify-js": "^3.14.3",
     "unused-filename": "^3.0.0"
